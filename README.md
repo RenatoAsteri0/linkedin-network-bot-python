@@ -6,8 +6,8 @@ Este projeto é um **bot de automação feito em Python com Selenium**, que aces
 
 ## 📸 Demonstração
 
-> ![Demonstração do bot](https://github.com/RenatoAsteri0/automacao-pessoas-linkedin/assets/demonstracao.gif)
-*(adicione um gif ou print mostrando o bot em ação)*
+> ![Demonstração do bot]([https://github.com/RenatoAsteri0/automacao-pessoas-linkedin/assets/demonstracao.gif](https://github.com/RenatoAsteri0/linkedin-network-bot-python/blob/main/2025-06-2109-11-08-ezgif.com-resize.gif?raw=true)
+
 
 ---
 
